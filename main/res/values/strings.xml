@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="title_activity_userprofile">userprofile</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">YDBvDURNELSH3vvAyZRd6WgvMohfxDjpZODKYzTM</string>
+    <string name="back4app_client_key">1gYkeBWuVUAaDpPkujIKt7Z87qsMoKe1pktPkBRX</string>
+
+</resources>
